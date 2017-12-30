@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recyclerview Firestore Pagination</string>
+    <string name="addItem">+</string>
+</resources>
