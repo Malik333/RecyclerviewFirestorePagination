@@ -30,7 +30,7 @@ public class AddingItemActivity extends AppCompatActivity {
     EditText titleText;
     EditText descText;
     Button submitBtn;
-
+//firestore db
     FirebaseFirestore db;
 
 
